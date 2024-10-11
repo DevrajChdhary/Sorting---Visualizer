@@ -9,7 +9,7 @@ Features
 5. Merge Sort
 6. Quick Sort
 
-# (Speed Control:) Adjust the speed of the sorting animation.
-# (Array Size Control:) Modify the number of elements in the array.
-# Generates a new random array with a single click.
-# Simple and user-friendly interface.
+Speed Control: Adjust the speed of the sorting animation.
+Array Size Control: Modify the number of elements in the array.
+Generates a new random array with a single click.
+Simple and user-friendly interface.
