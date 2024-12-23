@@ -17,6 +17,7 @@ Speed Control: Modify the speed of the sorting animations to suit your pace.
 Array Size Control: Change the number of elements in the array for better clarity.
 
 🟢 Additional Features:
+
 Random Array Generation: Create a new array with random values at the click of a button.
 Simple and User-Friendly Interface: Designed for ease of use and better understanding of concepts.
 
