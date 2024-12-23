@@ -1,4 +1,3 @@
-SORTING VISUALIZER
 Sorting Visualizer is an interactive tool designed to help users understand how various sorting algorithms work. By visually presenting the sorting process step by step, the tool provides an engaging learning experience for anyone interested in algorithmic concepts.
 
 FEATURES
