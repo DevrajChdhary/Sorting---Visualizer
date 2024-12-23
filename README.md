@@ -3,7 +3,7 @@ Sorting Visualizer is an interactive tool designed to help users understand how 
 
 Features:
 
-🟢 #Visualization of Popular Sorting Algorithms:
+ #Visualization of Popular Sorting Algorithms:
 
 Bubble Sort: A simple yet illustrative algorithm to understand swapping.
 
@@ -15,13 +15,13 @@ Merge Sort: Showcases divide-and-conquer sorting techniques.
 
 Quick Sort: Explains efficient partition-based sorting.
 
-🟢 #Adjustable Settings:
+#Adjustable Settings:
 
 Speed Control: Modify the speed of the sorting animations to suit your pace.
 
 Array Size Control: Change the number of elements in the array for better clarity.
 
-🟢  #Additional Features:
+ #Additional Features:
 
 Random Array Generation: Create a new array with random values at the click of a button.
 
